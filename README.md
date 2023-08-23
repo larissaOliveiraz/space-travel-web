@@ -1,16 +1,20 @@
-<h1 align="center"> 
+<h1 align="left"> 
 	✅  Space Travel WEB 🌑 Concluído ✅
 </h1>
 
-<p align="center">
+<!-- <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
- <a href="#-como-executar-o-projeto">Como executar</a> • 
- <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-autor">Autor</a> • 
-</p>
+ <a href="#-como-executar-o-projeto">Como executar</a> •
+ <a href="#-tecnologias">Tecnologias</a> •
+ <a href="#-autor">Autor</a> •
+</p> -->
 
-## 💻 Sobre o projeto
+<div align="center">
+   <img src="./src/assets/space-travel-screen.png" alt="Website image" style="height: 400px;"/>
+</div>
+
+## 🌑 Sobre o projeto
 
 -  🎦 Space Travel - é um site que te permite acessar informações sobre alguns planetas e luas do espaço, além disso é possível ler mais sobre os membros de equipes que viajam pelo espaço e suas missões.
 
@@ -22,7 +26,7 @@
    -  acessar informações sobre alguns planetas e luas.
    -  acessar informações sobre os membros da equipe.
    -  acessar informações sobre missões espaciais.
-   
+
 ---
 
 ## 🚀 Como executar o projeto localmente
@@ -79,7 +83,7 @@ Ferramentas usadas na construção do projeto:
 
 ### Entre em contato:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Larissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-oliveira-a04611238/)](https://www.linkedin.com/in/larissa-oliveira-a04611238/)
+[![Linkedin Badge](https://img.shields.io/badge/-Larissa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-oliveira-a04611238/)](https://www.linkedin.com/in/larissaoliveiraz/)
 [![Gmail Badge](https://img.shields.io/badge/-oliveira.larissa.dv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:oliveira.larissa.dv@gmail.com)
 
 ---
